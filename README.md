@@ -1,6 +1,6 @@
 # ✋ HandDetection
 
-**HandDetection** is a Python script that detects hands in real time, draws landmarks, and  performs hand **classification**.🔍✨
+**HandDetection** is a Python script that detects hands in real time, draws landmarks, and  performs hand **classification**.🔍
 
 ---
 
@@ -10,7 +10,7 @@
 | ------------------------------------- | --------------------------------------------------------------- |
 | ✅ **Real time hand tracking**         | Detects hands in live video feed.                               |
 | 🧠 **Hand classification**             | Classifies whether the detected hand is left or right.          |
-| 🖌️ **Landmark visualization**        | Draws landmarks on the hand and shows connections between them. |
+| 🖌️ **Landmark visualization**         | Draws landmarks on the hand and shows connections between them. |
 | 🚀 **Fast and efficient**             | Uses MediaPipe for optimal speed and performance.               |
 | 🎥 **Works with any webcam**          | Compatible with any standard webcam.                            |
 
@@ -30,8 +30,6 @@
 ## 📦 Installation
 
 1. **Clone the repository:**
-
-   First, clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/yourusername/HandDetection.git
