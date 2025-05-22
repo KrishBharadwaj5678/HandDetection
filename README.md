@@ -32,7 +32,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/HandDetection.git
+   git clone https://github.com/KrishBharadwaj5678/HandDetection.git
    cd HandDetection
    ```
 
@@ -63,7 +63,7 @@ We welcome contributions!🙌
 2. **Clone Your Fork:💻**
 
      ```bash
-     git clone https://github.com/yourusername/HandDetection.git
+     git clone https://github.com/KrishBharadwaj5678/HandDetection.git
      cd HandDetection
      ```
 
