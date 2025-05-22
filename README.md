@@ -1,6 +1,6 @@
 # ✋ HandDetection
 
-**HandDetection** is a Python script that detects hands in real time, draws landmarks, and  performs hand **classification**.🔍
+**HandDetection** is a Python script that detects hands in real time, draws landmarks, and  performs hand **classification**.
 
 ---
 
@@ -89,6 +89,5 @@ We welcome contributions!🙌
      ```
 
 7. **Create a Pull Request:🔄**
-
-   * Navigate to the original repository and click on the **"Compare & Pull Request"** button.
-   * Provide a description of your changes and submit the pull request.
+     - Navigate to the original repository and click on the **"Compare & Pull Request"**.
+     - Provide a description of your changes and submit the pull request.
