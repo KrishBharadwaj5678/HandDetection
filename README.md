@@ -1,6 +1,6 @@
 # ✋ HandDetection
 
-**HandDetection** is a Python script that detects hands in real time, draws landmarks, and identifies whether it is a **left** or **right** hand.
+**HandDetection** is a Python script that detects hands in real time, draws landmarks, and  performs hand **classification**.🔍✨
 
 ---
 
