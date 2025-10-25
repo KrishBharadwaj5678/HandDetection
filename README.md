@@ -91,5 +91,5 @@ We welcome contributions!🙌
      ```
 
 7. **Create a Pull Request:🔄**
-     - Navigate to the original repository and click on the **Compare & Pull Request**.
+     - Navigate to the repository and click on the **Compare & Pull Request**.
      - Provide a description of your changes and submit the pull request.
